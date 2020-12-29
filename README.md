@@ -5,4 +5,8 @@ Puede usarse en modo Administrador que permite acceso a todo el sistema, y en mo
 
 Muestra de la interfaz:
 
-![alt Imagen de muestra de interfaz](https://raw.githubusercontent.com/Icap97/DemoPOS/main/src/icon/login.png)
+![alt Imagen de muestra de login interfaz](https://raw.githubusercontent.com/Icap97/DemoPOS/main/src/icon/login.png)
+
+![alt Imagen de muestra de interfaz Administrador](https://raw.githubusercontent.com/Icap97/DemoPOS/main/src/icon/interfazAdmin.png)
+
+![alt Imagen de muestra de interfaz Usuario](https://raw.githubusercontent.com/Icap97/DemoPOS/main/src/icon/interfazUsuario.png)
